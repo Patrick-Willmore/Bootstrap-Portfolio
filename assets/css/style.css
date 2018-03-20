@@ -11,6 +11,14 @@ h2 {
   font:inherit;
 }
 
+#logo {
+
+  color: #fff;
+
+  text-decoration: none;
+  background: #4aaaa5;
+}
+
 
 .navbar-default .navbar-brand {
   font-family: Georgia, Times, "Times New Roman", serif;
@@ -44,19 +52,25 @@ h3 {
 .sidebar {
   text-align: center;
   background: #fff;
+  border:2px gray;
 }
 
-.col-lg-3 {
-  float:left;
-}
 
-.work {
+
+/* .work {
   position: relative;
   float: left;
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
   padding: 10px;
+} */
+.work {
+  position: relative;
+  float: left;
+  width: 274px;
+  margin: 20px 0 25px;
+  overflow: auto;
 }
 
 .work:nth-child(even) {
@@ -140,3 +154,5 @@ label {
 li {
   list-style-type: none;
 }
+
+
