@@ -20,14 +20,14 @@ h2 {
   color: #fff;
 
   text-decoration: none;
-  background: #4aaaa5;
+  background: #36c555cb;
 }
 
 
 .navbar-default .navbar-brand {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 900;
-  background-color: #4aaaa5;
+  background-color: #36c555cb;
   color: #ffffff;
   font-color: white;
   font-size:26px;
@@ -38,7 +38,7 @@ h2 {
 }
 
 .panel-body {
-  background-color: #4aaaa5;
+  background-color: #36c555cb;
   color: #ffffff;
   font-color: white;
   /*margin-left: 2px;*/
@@ -91,7 +91,7 @@ h3 {
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #36c555cb;
   border-bottom: 0;
 }
 
@@ -133,7 +133,7 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: #36c555cb;
   border: 0 none;
 }
 
